@@ -1,0 +1,7 @@
+## 아래의 요소들은 프로그램 실행 시 pip install을 해주어야 하는 것들 입니다.
+
+# 1. openai 라이브러리 설치
+openai==1.10.0
+
+# 2. tweepy 라이브러리 설치
+tweepy
